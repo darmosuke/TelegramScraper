@@ -15,7 +15,7 @@ Using this tool you can easily add so many members from any group to your group.
 
 `$ pkg install -y apt install python3-pip`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/darmosuke/TelegramScraper.git`
 
 `$ cd TelegramScraper`
 
